@@ -1,0 +1,2 @@
+this is a file i'm creating just to learn pushing files from the source control in vscode 
+just for fun because im bored with the terminal. :)
